@@ -8,6 +8,7 @@ public class SeerbitCodingChallengeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SeerbitCodingChallengeApplication.class, args);
+		System.out.println("Up and running");
 	}
 
 }
